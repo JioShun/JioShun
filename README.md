@@ -1,3 +1,2 @@
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=JioShun&theme=vue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=JioShun&theme=vue)
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=JioShun&theme=vue)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JioShun)](https://github.com/JioShun/github-readme-stats)
+[![JioShun's GitHub stats](https://github-readme-stats.vercel.app/api?username=JioShun)](https://github.com/JioShun/github-readme-stats)
